@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(97, 151, 212) ;
+}
+table{
+    background-color: rgb(245, 141, 172);
+    
+}
+tr{
+    background-color: rgb(36, 24, 207);
+    text-align: center;
+    color: white;
+}
+td{
+    padding: 3px;
+    background-color: rgb(233, 255, 192);
+    color: black;
+}
+#btn{
+    border-radius: 10px;
+    background-color: white;
+    border: 2px solid pink;   
+}
